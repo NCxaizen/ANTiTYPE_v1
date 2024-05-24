@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.78c04453.css",
+    "main.js": "/static/js/main.b017f302.js",
+    "static/media/antiTypelogo.jpg": "/static/media/antiTypelogo.440b69950560ff7aad27.jpg",
+    "index.html": "/index.html",
+    "main.78c04453.css.map": "/static/css/main.78c04453.css.map",
+    "main.b017f302.js.map": "/static/js/main.b017f302.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78c04453.css",
+    "static/js/main.b017f302.js"
+  ]
+}
